@@ -42,7 +42,7 @@ export default class Simple extends Component {
       <Root>
         <Annotation
           src={img}
-          alt='Two pebbles anthropomorphized holding hands'
+          alt='goomba'
 
           annotations={this.state.annotations}
 
